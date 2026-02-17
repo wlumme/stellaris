@@ -1,0 +1,1 @@
+../../../.local/share/Paradox Interactive/Stellaris/user_empire_designs_v3.4.txt
